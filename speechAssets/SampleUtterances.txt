@@ -1,0 +1,8 @@
+PickABlackCardIntent pick a black card
+PickABlackCardIntent get a black card
+PickABlackCardIntent a black card
+PickABlackCardIntent black card
+PickAWhiteCardIntent pick a white card
+PickAWhiteCardIntent get a white card
+PickAWhiteCardIntent a white card
+PickAWhiteCardIntent white card

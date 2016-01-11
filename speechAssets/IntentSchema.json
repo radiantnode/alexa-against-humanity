@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "PickABlackCardIntent"
+    },
+    {
+      "intent": "PickAWhiteCardIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
